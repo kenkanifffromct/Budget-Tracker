@@ -3,4 +3,4 @@
 ## [Deployed Application](https://guarded-atoll-16149.herokuapp.com/)
 
 ### Walkthrough
-![Walkthrough GIF](Budget-Tracker.gif)
+![Walkthrough GIF](public/images/Budget-Tracker.gif)
